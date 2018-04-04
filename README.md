@@ -1,6 +1,6 @@
 # Perceptron-neural-net-from-scratch
 
-A neural net from scratch to help you understand the maths behind neural networks ! make sure to read the medium article I've written !
+A neural net from scratch to help you understand the maths behind neural networks ! 
 
 You will find in the repo a jupyter notebook of one perceptron made from scratch & one with sklearn dependency
 
